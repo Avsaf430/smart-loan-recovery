@@ -1,4 +1,4 @@
-# ⚡ Smart Loan Recovery System
+#  Smart Loan Recovery System
 
 This project leverages **Machine Learning** to predict loan recovery based on borrower details such as loan amount, income, and credit score.
 
